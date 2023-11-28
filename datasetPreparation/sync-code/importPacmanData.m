@@ -1,4 +1,4 @@
-function [Task, Tsync, ks, metrics, stats, centroids_good, neuron_snrs] = import_pacman_data(subject, date, paths, varargin)
+function [Task, Tsync, ks, metrics, stats, centroids_good, neuron_snrs] = importPacmanData(subject, date, paths, varargin)
 % import raw neural and behavioral data for pacman task / Rig J
 % EMT 2023-02-13
 %
