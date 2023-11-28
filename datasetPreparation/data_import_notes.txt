@@ -1,0 +1,8 @@
+%% Data import for pacman task for data using Blackrock headstages and demo probe 
+% This is relevant for data collected 10/2019-11/2020
+
+1) load datalogger behvaioral data using loadsession
+
+2) load nsx data
+
+sync the kilosort results to create the Tsync object
